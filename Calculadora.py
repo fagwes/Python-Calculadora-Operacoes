@@ -1,6 +1,6 @@
 #Dados
 a = float(input('Digite um número: '))
-operacao = input('Escolha a operação ')
+operacao = input('Escolha a operação: ')
 b = (input('Digite um número: '))
 
 # Soma #
